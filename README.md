@@ -1,5 +1,4 @@
-# SlidingMenuOne
-最简单的侧滑菜单
+# 最简单的侧滑菜单
 
 1.自定义View使其继承HorizontalScrollView
 
