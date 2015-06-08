@@ -1,5 +1,6 @@
 # SlidingMenuOne
 最简单的侧滑菜单
+
 1.自定义View使其继承HorizontalScrollView
 
 2.HorizontalScrollView里面是一个LinearLayout,方向是横向的，因为我们的菜单和内容是横向放置的。
